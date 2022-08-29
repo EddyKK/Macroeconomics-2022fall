@@ -8,7 +8,7 @@
 ---
 ### 如果无法打开pdf，请使用百度网盘提取课件：
 
-### 链接:https://pan.baidu.com/s/1RtXLSqMhFHr1dxL3Pm3u0A  密码:ey63
+### 链接:https://pan.baidu.com/s/1J1MW5Mrdgc_CmrVcuIapSw  密码:tiaf
 ---
 ## 课程时间：每周三晚 6：30--9：05
 ### 本课程为网络授课，可以通过以下链接于每周三加入腾讯会议上课：
