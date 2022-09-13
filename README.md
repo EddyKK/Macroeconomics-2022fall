@@ -42,7 +42,6 @@
 
 3. 9月7日第三节课，我们将在[第三章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%C2%B7%20%E5%9B%BD%E6%B0%91%E6%94%B6%E5%85%A5.pdf)中更加详细的展开二元模型：（1） 在产品与服务市场中，生产要素的投入与报酬是如何决定的 （2） 在金融市场中，投资量和利率是如何决定的。
 
-4. 9月14号第四节课，我们将介绍货币系统[第四章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%C2%B7%20%E8%B4%A7%E5%B8%81%E7%B3%BB%E7%BB%9F.pdf)：货币是什么？有什么作用？一般商业银行在货币系统中的作用，以及中央银行的货币政策如何影响金融市场。同时，我们将简短的开启[第五章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%C2%B7%20%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80.pdf)通货膨胀。在这节课上，我们计划引入数量方程，了解它怎样将货币供给量、货币流通速度、物价水平以及交易量联系在一起。
 
 
 4. 9月14号第四节课，我们将介绍货币系统[第四章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%C2%B7%20%E8%B4%A7%E5%B8%81%E7%B3%BB%E7%BB%9F.pdf)：货币是什么？有什么作用？一般商业银行在货币系统中的作用，以及中央银行的货币政策如何影响金融市场。同时，我们将简短的开启[第五章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%C2%B7%20%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80.pdf)通货膨胀。在这节课上，我们计划引入数量方程，了解它怎样将货币供给量、货币流通速度、物价水平以及交易量联系在一起。
