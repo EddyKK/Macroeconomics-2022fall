@@ -8,20 +8,20 @@
 ---
 如果无法打开pdf，请使用百度网盘提取课件：
 
-⋅⋅* 链接:[点击此处](https://pan.baidu.com/s/1J1MW5Mrdgc_CmrVcuIapSw)  密码:tiaf
+* 链接:[点击此处](https://pan.baidu.com/s/1J1MW5Mrdgc_CmrVcuIapSw)  密码:tiaf
 ---
 课程时间：每周三晚 6：30--9：05
 本课程为网络授课，可以通过以下链接于每周三加入腾讯会议上课：
 
-⋅⋅* 点击链接入会，或添加至会议列表：
+* 点击链接入会，或添加至会议列表：
 
-⋅⋅* https://meeting.tencent.com/dm/uYnMlGg0OxbQ
+* https://meeting.tencent.com/dm/uYnMlGg0OxbQ
 
-⋅⋅* 腾讯会议：407-7762-2696
+* 腾讯会议：407-7762-2696
 
-⋅⋅* 会议密码：123456
+* 会议密码：123456
 ---
-⋅⋅* 课程的参考教材为：《宏观经济学（第九版）》，N. 格里高利.曼昆，人民大学出版社
+* 课程的参考教材为：《宏观经济学（第九版）》，N. 格里高利.曼昆，人民大学出版社
 
 
 
