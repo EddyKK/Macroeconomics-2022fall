@@ -2,7 +2,7 @@
 ---
 康明石，暨南大学，mingshikang@jnu.edu.cn
 ---
-NEW: 第六、第七章讲义已经上传。十一期间记得完成[作业]（https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E5%AE%8F%E8%A7%82%E4%BD%9C%E4%B8%9A%E4%B8%80%EF%BC%882022%EF%BC%89.pdf）
+NEW: 第六、第七章讲义已经上传。十一期间记得完成[作业](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E5%AE%8F%E8%A7%82%E4%BD%9C%E4%B8%9A%E4%B8%80%EF%BC%882022%EF%BC%89.pdf)
 ---
 本网页为宏观经济学本科二年级课程网页。同学们可以在此下载课件。每周日晚更新下周课程讲义。
 * 课程的参考教材为：《宏观经济学（第九版）》，N. 格里高利.曼昆，人民大学出版社
