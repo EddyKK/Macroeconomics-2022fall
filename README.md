@@ -33,7 +33,7 @@ https://meeting.tencent.com/dm/uYnMlGg0OxbQ
 [第四章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%C2%B7%20%E8%B4%A7%E5%B8%81%E7%B3%BB%E7%BB%9F.pdf)
 [第五章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E4%BA%94%E7%AB%A0%C2%B7%20%E9%80%9A%E8%B4%A7%E8%86%A8%E8%83%80.pdf)
 [第六章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E5%85%AD%E7%AB%A0%C2%B7%20%E5%BC%80%E6%94%BE%E7%BB%8F%E6%B5%8E.pdf)
-[第七章]()
+[第七章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E4%B8%83%E7%AB%A0%C2%B7%E5%A4%B1%E4%B8%9A.pdf)
 [第八章](https://github.com/EddyKK/Macroeconomics-2022fall/blob/main/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%C2%B7%20%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF1.pdf)
 [第九章]()
 
